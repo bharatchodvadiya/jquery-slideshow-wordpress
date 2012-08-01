@@ -1,0 +1,27 @@
+#slideshow{
+	overflow:auto;
+	overflow:hidden;
+	z-index:0;
+}
+
+#seg1{
+	z-index:0;
+	background:#ffffff;
+
+}
+
+#seg2{
+	z-index:1000;
+	background:#ffffff;
+}
+
+.content {
+	font-weight:bold;
+	color:#6B0086;
+	font-style:italic;
+
+}
+
+.clear {
+	clear:both;
+}
